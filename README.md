@@ -2,7 +2,7 @@
 
 ```javascript
 const Romain = {
-    Languages: [Javascript, HTML, CSS, PHP, Java, C#, Swift],
+    Languages: ["Javascript", "HTML", "CSS", "PHP", "Java", "C#", "Swift"],
     askMeAbout: ["web dev", "tech", "gaming", "music"],
     cms : ["WordPress"],
     technologies: {

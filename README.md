@@ -15,7 +15,7 @@ const Romain = {
             framework : ["Symfony", "Laravel"],
             database : ["MySQL"]
         },
-        others: ["Git", "Rest API"]
+        others: ["Git", "Rest API" , "JWT"]
     },
     Methodology : [ "Merise", "Scrum", "OOP", "MVC"]
 };

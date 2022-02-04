@@ -8,11 +8,11 @@ const Romain = {
     technologies: {
         frontEnd: {
             css: ["bootstrap", "Tailwind"],
-            library : ["React", "jQuery"],
-            framework : ["NextJS", "React native", "VueJS", "NuxtJS"]
+            library : ["jQuery"],
+            framework : ["NextJS", "React native", "VueJS", "NuxtJS", "React", "Angular", "Vue"]
         },
         backEnd: {
-            framework : ["Symfony", "Laravel"],
+            framework : ["Symfony", "Laravel", "Strapi"],
             database : ["MySQL"]
         },
         others: ["Git", "Rest API" , "JWT"]

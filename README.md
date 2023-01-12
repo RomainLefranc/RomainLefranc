@@ -2,21 +2,22 @@
 
 ```javascript
 const Romain = {
-    Languages: ["Javascript", "HTML", "CSS", "PHP", "Java", "C#", "Swift"],
-    askMeAbout: ["web dev", "tech", "gaming", "music"],
+    Languages: ["JS", "HTML", "CSS", "PHP"],
+    askMeAbout: ["web dev", "tech", "gaming", "music", "hardware"],
     cms : ["WordPress"],
     technologies: {
         frontEnd: {
             css: ["bootstrap", "Tailwind"],
-            library : ["jQuery"],
-            framework : ["NextJS", "React native", "VueJS", "NuxtJS", "React", "Angular", "Vue"]
+            framework : ["React native", "ReactJS", "AngularJS", "VueJS"]
         },
         backEnd: {
-            framework : ["Symfony", "Laravel", "Strapi"],
-            database : ["MySQL"]
+            framework : ["ExpressJS", "Symfony", "Laravel", "Strapi"],
         },
-        others: ["Git", "Rest API" , "JWT"]
+        fullStack : {
+            framework : ["NextJS", "NuxtJS", "Symfony", "Laravel"],
+        },
     },
+    database : ["MySQL", "MongoDB", "SQLite", "PostgreSQL"],
     Methodology : [ "Merise", "Scrum", "OOP", "MVC"]
 };
 ```
